@@ -1,0 +1,7 @@
+print(False and 0)
+print(0 and False)
+print(True and 1)
+print(1 and True)
+print(False and 1)
+print(1 and False)
+print(0 and True)

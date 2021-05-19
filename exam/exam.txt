@@ -1,0 +1,3 @@
+when making change to the source code that programs are made up of programmer need to make other programmers aware the task that the routine is to perform they do this by inserting element in the source code to so
+that other can be understand the program more easily and by documenting their code.TO save to work their programmers often to use libraries of basic code that can be modified or customized for a specific application
+this approach yields more reliable and consistent programs and increase programmers productivity by eliminating some routine step
